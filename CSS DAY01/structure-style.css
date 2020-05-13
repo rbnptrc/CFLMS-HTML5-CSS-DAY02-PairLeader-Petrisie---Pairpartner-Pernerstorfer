@@ -3,15 +3,23 @@ div {
     margin: 5px;
 }
 
-.left p {
+#first {
     visibility: hidden;
 }
 
-h1 {
+#second {
     visibility: hidden;
 }
 
-.right {
-    visibility: hidden;   
+#third {
+    visibility: hidden;
+}
+
+#fourth {
+    visibility: hidden;
+}
+
+#fifth {
+    visibility: hidden;
 }
 
