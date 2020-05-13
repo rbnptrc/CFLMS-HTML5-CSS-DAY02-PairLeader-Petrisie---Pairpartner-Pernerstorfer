@@ -1,0 +1,4 @@
+/* Here we write our css style to dress up the table and its content */
+table, th, td {
+    border: 1px solid black;
+  }
