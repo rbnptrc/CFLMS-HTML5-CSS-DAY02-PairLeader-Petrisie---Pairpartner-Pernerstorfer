@@ -1,0 +1,17 @@
+.div {
+    border: 2px;
+    margin: 5px;
+}
+
+#third p {
+    visibility: hidden;
+}
+
+h1 {
+    visibility: hidden;
+}
+
+.right {
+    visibility: hidden;   
+}
+
