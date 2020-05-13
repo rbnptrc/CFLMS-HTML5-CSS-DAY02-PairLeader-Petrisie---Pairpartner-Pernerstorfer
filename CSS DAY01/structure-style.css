@@ -1,25 +1,49 @@
-div {
-    border: 2px;
-    margin: 5px;
-}
 
-#first {
-    visibility: hidden;
+#first p {
+    border: 2px solid;
+    margin: 5px;
+    display: none;
 }
 
 #second {
-    visibility: hidden;
+    border: 2px solid;
+    margin: 5px;
 }
 
+
+
 #third {
-    visibility: hidden;
+    border: 2px solid;
+    margin: 5px;
+    }
+#third p {
+    display: none;
+}    
+
+#third h3 {
+    display: none;
 }
 
 #fourth {
-    visibility: hidden;
+    border: 2px solid;
+    margin: 5px;
 }
 
 #fifth {
-    visibility: hidden;
+    border: 2px solid;
+    margin: 5px;
+    
+}
+#fifth p {
+    display: none;
+}
+
+#sixth {
+    border: 2px solid;
+    margin: 5px;
+}
+
+h1 {
+    display: none;
 }
 
