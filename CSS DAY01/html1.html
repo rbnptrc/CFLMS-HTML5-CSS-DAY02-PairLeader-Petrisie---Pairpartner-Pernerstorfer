@@ -1,18 +1,38 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dom tree structur recreate</title>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel='stylesheet' type='text/css' href='style.css'>
+  <title>Dom tree structur recreate</title>
+
 </head>
+
 <body>
-    <div class="left" id="first">
-
+  <div class="left" id="first">
+    <div class="left" id="third">
+      <p>This is the first paragraph</p>
+      <span>
+        <h3>This is a h3 heading inside the span</h3>
+        <p>A Paragraph inside the same span</p>
+      </span>
     </div>
-
-    <div class="right" id="second">
-        
+    <div class="left" id="fourth">
+      <h1>An h1 heading inside another div</h1>
     </div>
-    
+  </div>
+
+  <div class="right" id="second">
+    <div class="right" id="fifth">
+      <p>a paragraph in the next div</p>
+    </div>
+    <div class="right" id="sixth">
+      <img src="pictures/coding.jpg" alt="->Picture of Code<-">
+    </div>
+  </div>
+
 </body>
+
 </html>
