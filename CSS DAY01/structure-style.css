@@ -1,8 +1,7 @@
 
-#first p {
+#first {
     border: 2px solid;
     margin: 5px;
-    display: none;
 }
 
 #second {
@@ -10,19 +9,10 @@
     margin: 5px;
 }
 
-
-
 #third {
     border: 2px solid;
     margin: 5px;
-    }
-#third p {
-    display: none;
-}    
-
-#third h3 {
-    display: none;
-}
+    } 
 
 #fourth {
     border: 2px solid;
@@ -31,19 +21,11 @@
 
 #fifth {
     border: 2px solid;
-    margin: 5px;
-    
+    margin: 5px;    
 }
-#fifth p {
-    display: none;
-}
+
 
 #sixth {
     border: 2px solid;
     margin: 5px;
 }
-
-h1 {
-    display: none;
-}
-
