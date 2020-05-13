@@ -1,9 +1,9 @@
-.div {
+div {
     border: 2px;
     margin: 5px;
 }
 
-#third p {
+.left p {
     visibility: hidden;
 }
 
